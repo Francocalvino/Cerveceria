@@ -1,15 +1,7 @@
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
-@import url();
+@import url(Styles\header.css);
+@import url(Styles\section1.css);
+@import url(Styles\section2.css);
+@import url(Styles\responsive.css);
+@import url(Styles\reset.css);
+@import url(Styles\footer.css);
 
-
-.navbar{ 
-    display:flex; 
-
-}
-.redessociales img{
-    width: 50px;
-}
