@@ -8,6 +8,7 @@
     display: grid;
     grid-template-columns:  1fr 1fr;
     gap: 20px;
+    
 }
 
 .infocerveza img {
@@ -18,12 +19,13 @@
 .infotextocerveza {
     width: 400px;
     height: 160px;
-    margin-top: 20px;
+    margin-top: -240px;
     margin-bottom: 20px;
     display: flex;
     flex-direction: column;
     text-align: center;
     justify-content: space-around;
+    
    }
 
 .infotextocerveza button {
@@ -51,3 +53,17 @@
     font-family: 'Courier New', Courier, monospace;
 }
 
+.imagencerveza:hover{
+    transform: scale(1.5);
+    filter: opacity(0.5);
+
+}
+.infotextocerveza{
+    position: absolute;
+    z-index: -1;
+    
+}
+
+.prueba{
+    position:absolute;
+}
