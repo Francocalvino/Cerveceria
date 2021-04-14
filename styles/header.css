@@ -1,14 +1,26 @@
 .navbar {
     display: flex;
     justify-content: space-between;
-    
+    font-size: 1.5rem;
+}
+
+nav {
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 40px;
 }
 
 .navbar ul {
     display: inline-flex;
+    padding: 20px;
+    font-family: 'Courier New', Courier, monospace;
 
 }
 
+.navbar li {
+    padding: 15px;
+}
 
 
 
