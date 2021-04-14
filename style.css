@@ -1,7 +1,7 @@
-@import url(Styles\header.css);
-@import url(Styles\section1.css);
-@import url(Styles\section2.css);
-@import url(Styles\responsive.css);
-@import url(Styles\reset.css);
-@import url(Styles\footer.css);
+@import url(./styles/header.css);
+@import url(./styles/section1.css);
+@import url(./styles/section2.css);
+@import url(./styles/responsive.css);
+@import url(./styles/reset.css);
+@import url(./styles/footer.css);
 
