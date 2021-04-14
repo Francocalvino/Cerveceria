@@ -14,7 +14,8 @@ nav {
 .navbar ul {
     display: inline-flex;
     padding: 20px;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'beer';
+    font-weight: 600;
 
 }
 
