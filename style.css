@@ -4,3 +4,12 @@
 @import url();
 @import url();
 @import url();
+
+
+.navbar{ 
+    display:flex; 
+
+}
+.redessociales img{
+    width: 50px;
+}
