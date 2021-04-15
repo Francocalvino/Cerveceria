@@ -1,0 +1,19 @@
+.contactanos {
+    display:flex-wrap;
+    font-size: 5rem;
+    -ms-flex-direction: center;
+    background-color: lightskyblue;
+}
+.iconoscontacto¨{
+    align-self: baseline;
+    width: 10px;
+    
+}
+.saludo {
+    display:grid;
+    grid-template-rows: row;
+    background-color:lightyellow;
+    grid-column-end: auto;
+
+}
+    
