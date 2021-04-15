@@ -29,6 +29,4 @@ Autores
 -Andrea Suárez
 -Franco Calviño
 
-
-Expresiones de Gratitud 🎁
 Aunque ha sido un corto plazo para crear este proyecto hemos dado todo lo que hemos podido y aprendido un monton de cosas nuevas, hemos cometido muchos errores y aprendido de todos ellos, ahora podemos seguir con otros proyectos, mejorando, siendo compañeros pero sobre todo, ROMPIENDO LOS CÓDIGOS! Muchas gracias a todos los participantes de este proyecto.
