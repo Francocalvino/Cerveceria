@@ -11,7 +11,7 @@ Instalación:
 Para su instalación necesitaras crear una carpeta, una vez creada abriras el Git Bash Here, en el cual deberas escribir un "git clone" mas el enlace que habras cogido previmente de nuestro github, asi que con eso ya tendras una copia de nuestro código en tu carpeta, despues ya solo tendras que acceder a Visual Studio Code y abrir esta carpeta, asi podras ver y usar nuestro código. Disfrutalo!
 
 
-Construido con:
+
 Nuestras herramientas en este proyecto han sido:
 -Trello (para la organización del trabajo)
 -Github (para poder compartirnos le código y trabajarlo entre todos)
