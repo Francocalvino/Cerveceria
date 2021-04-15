@@ -1,0 +1,28 @@
+.contactanos {
+    margin-top: 50px;
+    display: flex-wrap;
+    font-size: 5rem;
+    -ms-flex-direction: center;
+    text-align: center;
+    
+}
+.iconoscontacto¨{
+    align-self: baseline;
+    width: 10px;
+    
+}
+.saludo {
+    display:grid;
+    grid-template-rows: row;
+    background-color:lightyellow;
+    grid-column-end: auto;
+
+}
+
+.fotofooter {
+    width: 50px;
+}
+
+.contactanos h2 {
+    font-size: 50px;
+}

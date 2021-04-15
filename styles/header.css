@@ -4,22 +4,25 @@
     font-size: 1.5rem;
 }
 
-nav {
-    width: 30%;
-    display: flex;
-    justify-content: space-around;
-    margin-right: 40px;
-}
-
 .navbar ul {
     display: inline-flex;
     padding: 20px;
     font-family: 'beer';
     font-weight: 600;
+    font-size: 40px;
+    display: flex;
+    margin-top: 20px;
+    cursor: pointer;
 
 }
 
 .navbar li {
-    padding: 15px;
+    padding: 20px;
+}
+
+.navbar li:hover {
+    color: #FFC93C;;
+    transition: 0.8s;
+    text-decoration: none;
 }
 
