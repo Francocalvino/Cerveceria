@@ -12,10 +12,17 @@
     font-size: 40px;
     display: flex;
     margin-top: 20px;
+    cursor: pointer;
 
 }
 
 .navbar li {
     padding: 20px;
+}
+
+.navbar li:hover {
+    color: #FFC93C;;
+    transition: 0.8s;
+    text-decoration: none;
 }
 

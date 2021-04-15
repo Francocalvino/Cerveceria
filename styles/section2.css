@@ -12,6 +12,7 @@
     
 }
 
+
 .infocerveza img {
     width: 400px;
     height: 400px;
@@ -29,7 +30,7 @@
     
    }
 
-.infotextocerveza button {
+.boton1 {
     background-color: #FFC93C;
     border: none;
     color: white;
@@ -41,7 +42,18 @@
     margin: 4px 2px;
     cursor: pointer;  
     border-radius: 30px;  
+    margin-top: 20px;
+    margin-left: 135px;
+    
 }
+
+.boton1:hover {
+    color: black;
+    transition: 0.8s;
+    text-decoration: none;
+}
+
+
 
 .descripcioncerveza {
     font-size: 30px;
@@ -49,22 +61,20 @@
 }
 
 .preciocerveza {
-    font-size: 20px;
+    font-size: 40px;
     font-weight: 700;
     font-family: 'Courier New', Courier, monospace;
 }
 
 .imagencerveza:hover{
-    transform: scale(1.5);
-    filter: opacity(0.5);
+    transform: scale(1.1);
+    filter: opacity(0.4);
 
 }
+
 .infotextocerveza{
     position: absolute;
     z-index: -1;
     
 }
 
-.prueba{
-    position:absolute;
-}
