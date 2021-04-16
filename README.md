@@ -1,6 +1,5 @@
 # Cerveceria
-Los Tincho´s Brewery
-Proyecto que Factoria F5 nos ha mandado, se trataba de crear nuestro propio E-commerce, por lo cual decidimos montar una cervecería online, con unas cervezas como base pero a las que cada semana se les iran añadiendo nuevas. Hemos tratado de dirigirnos a un público que quiera la comodidad de recibir las mejores directamente en su casa y haciendo solo un click.
+Los Tincho´s Brewery es proyecto que Factoria F5 nos ha mandado, se trataba de crear nuestro propio E-commerce, por lo cual decidimos montar una cervecería online, con unas cervezas como base pero a las que cada semana se les iran añadiendo nuevas. Hemos tratado de dirigirnos a un público que quiera la comodidad de recibir las mejores birras directamente en su casa y haciendo solo un click.
 
 
 Pre-requisitos:
